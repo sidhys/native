@@ -1,4 +1,4 @@
-** Native Shell, a (sort of) command prompt, loaded before the Win32 environment. **
+**Native Shell, a (sort of) command prompt, loaded before the Win32 environment.**
 
 *What is Native Mode?*
 
